@@ -1,17 +1,12 @@
+# Giacomo Pasin
 
-  
-<span align="center">
-  <h1>Hi, I'm Giacomo Pasin.</h1>
+MSc Computer Science at [ETH Zürich](https://ethz.ch) · Machine Intelligence
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/text-diffusion-still.png">
+  <img src="assets/text-diffusion.gif" width="1200" height="360" alt="Text-diffusion-inspired animation: candidate words refine in parallel into Giacomo Pasin, Machine Intelligence, ETH Zürich.">
+</picture>
 
-[![GitHub](https://img.shields.io/badge/GitHub-jackpeck2004-black)](https://github.com/jackpeck2004)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jackpasin-blue)](https://www.linkedin.com/in/jackpasin/)
-[![Website](https://img.shields.io/badge/Website-giacomopasin.com-green)](https://giacomopasin.com)
-  
-  </span>
+<sub>[Animation source ↗](assets/generate-text-diffusion.py)</sub>
 
-## GitHub Stats
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackpeck2004&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)](https://giacomopasin.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackpeck2004&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=8&hide=Blade,Hack)](https://giacomopasin.com)
+[Explore my repositories →](https://github.com/jackpeck2004?tab=repositories) · [Website ↗](https://giacomopasin.com) · [LinkedIn ↗](https://www.linkedin.com/in/jackpasin/)
